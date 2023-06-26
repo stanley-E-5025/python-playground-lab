@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python-postgres"
+version = "0.1.0"
+description = ""
+authors = ["stanley-E-5025"]
+readme = "README.md"
+packages = [{include = "python_postgres"}]
+
+[tool.poetry.dependencies]
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

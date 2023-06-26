@@ -1,0 +1,11 @@
+venv
+__pycache__
+.log
+.DS_Store
+.env
+.db
+token.txt
+.mp4
+.json
+.parquet
+
